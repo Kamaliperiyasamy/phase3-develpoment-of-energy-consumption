@@ -1,1 +1,1 @@
-# phase3-develpoment-of-energy-consumption
+# phase3-development-of-energy-consumption
